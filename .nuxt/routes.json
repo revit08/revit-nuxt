@@ -1,0 +1,23 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/ganesan.karuppaiya/Documents/GitHub/revit-nuxt/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_1dddb5f9"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/ganesan.karuppaiya/Documents/GitHub/revit-nuxt/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_2b22e2a1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ganesan.karuppaiya/Documents/GitHub/revit-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3745a5c0"
+  }
+]
